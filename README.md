@@ -7,6 +7,7 @@
 3. [Project Files](#project_files)
 4. [Used Libraries](#libraries)
 5. [Acknowleadgments](#acknowledgment)
+6. [References](#refrence)
 
 ## Motivation <a name="motivation" ></a>
 The objective of this particular project is to build a Convolutional Neural Network(CNN) model to classify Dog’s breed, and finally the built model is used to deploy in real world applications such as mobile , web or desktop applications. The application will accept any user supplied images as input, and if the model detected it as a dog then the model will predict their breed. Following is the potential output of the built model.
@@ -40,3 +41,11 @@ The model was able to determine whether the image contains a human, dog, or neit
 Thanks for [Udacity](https://www.udacity.com/) and [Data Scientist Nano Degree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) program staff members for creating very usable course materials and great courses.
 
 More details can be found from my [Medium blog](https://medium.com/@sajithnandasena/dog-breed-classification-using-cnn-71e0b9362498)
+
+
+## References <a name="refrence"></a>  
+http://cs231n.stanford.edu/
+https://machinelearningmastery.com/transfer-learning-for-deep-learning/
+https://keras.io
+https://in.mathworks.com/help/deeplearning/
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf
