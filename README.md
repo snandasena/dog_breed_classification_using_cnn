@@ -19,4 +19,18 @@ The below chart shows the distribution of dog breeds for total images and there 
 
 ## Results <a name="results"> </a>
 The model was able to determine whether the image contains a human, dog, or neither. It predicted the correct dog breed for tested dogs.  
-![](images/results.png)
+![](images/results.png)  
+
+## Project Files <a name="project_files"></a>
+* "dog_app.ipynb" is the main Jupyter notebook file. That is including all source code.
+* "dog_app.html" is HTML, that can be viewed using any of web browser
+* "saved_models" can be used to developed an application to detect dog breeds
+* "sample_images" can be used to test the model
+
+## Used Libraries <a name="libraries"> </a>
+* [Keras](https://keras.io/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [OpenCV](https://opencv.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Numpy](https://numpy.org/)
+* [Matplotlib](https://matplotlib.org/)
