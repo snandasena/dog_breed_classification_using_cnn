@@ -14,8 +14,9 @@ The objective of this particular project is to build a Convolutional Neural Netw
 
 ## Exploratory Data Analysis <a name="xpoanalysis"></a>
 The below chart shows the distribution of dog breeds for total images and there are at least 61 images for 50% dog breeds.
+
 ![](images/toatl_data_set.png)
 
 ## Results <a name="results"> </a>
-The model was able to determine whether the image contains a human, dog, or neither. It predicted the correct dog breed for tested dogs.
+The model was able to determine whether the image contains a human, dog, or neither. It predicted the correct dog breed for tested dogs.  
 ![](images/results.png)
