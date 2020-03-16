@@ -44,8 +44,8 @@ More details can be found from my [Medium blog](https://medium.com/@sajithnandas
 
 
 ## References <a name="refrence"></a>  
-http://cs231n.stanford.edu/
-https://machinelearningmastery.com/transfer-learning-for-deep-learning/
-https://keras.io
-https://in.mathworks.com/help/deeplearning/
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf
+* http://cs231n.stanford.edu/  
+* https://machinelearningmastery.com/transfer-learning-for-deep-learning/  
+* https://keras.io  
+* https://in.mathworks.com/help/deeplearning/  
+* http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.161.3556&rep=rep1&type=pdf  
