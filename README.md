@@ -34,3 +34,9 @@ The model was able to determine whether the image contains a human, dog, or neit
 * [Pandas](https://pandas.pydata.org/)
 * [Numpy](https://numpy.org/)
 * [Matplotlib](https://matplotlib.org/)
+
+
+## Acknowleadgments <a name="acknowledgment"> </a>
+Thanks for ![Udacity](https://www.udacity.com/) and ![Data Scientist Nano Degree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) program staf members for creating very usable course matirials and great courses.
+
+More details can be found from my ![Medium blog](https://medium.com/@sajithnandasena/dog-breed-classification-using-cnn-71e0b9362498)
